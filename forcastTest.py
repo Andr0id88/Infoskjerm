@@ -84,15 +84,6 @@ class RssFeed:
         pass
 
 class Forcast(RssFeed):
-    def internet_connected(host="8.8.8.8", port=53):
-
-        try:
-                socket.setdefaulttimeout(1)
-                socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((host, port))
-                return True
-        except Exception as ex:
-                pass
-        return False
 
     def getpdf():
         #Download the file contents in binary format
