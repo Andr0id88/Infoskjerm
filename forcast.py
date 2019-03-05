@@ -17,8 +17,11 @@ def internet_connected(host="8.8.8.8", port=53):
     return False
 
 def getpdf():
-    url = ("https://www.yr.no/sted/Norge/Nordland/Narvik/varsel.pdf")
-    wget.download(url, path + 'langvarsel.pdf')
+    os.system("wget https://www.yr.no/sted/Norge/Nordland/Narvik/varsel.pdf")
+
+#def getpdf():
+#    url =
+#    wget.download(url, path + 'langvarsel.pdf')
 
 def pdfToImg():
     pages = convert_from_path(path + 'langvarsel.pdf', 300)
