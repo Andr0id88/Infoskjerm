@@ -55,7 +55,7 @@ class RssFeed:
 
         rsslinker = {
         ('https://www.nrk.no/nyheter/siste.rss'),
-        ('https://www.nrk.no/nordland/toppsaker.rssS')
+        ('https://www.nrk.no/nordland/siste.rss')
         }
 
         feeds = []
