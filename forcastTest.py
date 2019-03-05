@@ -4,8 +4,9 @@ import os
 import requests
 
 url = 'https://www.yr.no/sted/Norge/Nordland/Narvik/Narvik/varsel.pdf'
-path = '/home/pi/weather/'
-imgpath = '/home/pi/Pictures/'
+path = '/home/kali/pythonProjects/Infoskjerm/'
+imgpath = '/home/kali/pythonProjects/Infoskjerm/'
+
 
 def internet_connected(host="8.8.8.8", port=53):
 
