@@ -1,8 +1,9 @@
-import wget
 from pdf2image import convert_from_path
 from PIL import Image
 import os
+import requests
 
+url = 'https://www.yr.no/sted/Norge/Nordland/Narvik/Narvik/varsel.pdf'
 path = '/home/pi/weather/'
 imgpath = '/home/pi/Pictures/'
 
@@ -17,11 +18,11 @@ def internet_connected(host="8.8.8.8", port=53):
     return False
 
 def getpdf():
-    os.system("wget https://www.yr.no/sted/Norge/Nordland/Narvik/varsel.pdf")
-
-#def getpdf():
-#    url =
-#    wget.download(url, path + 'langvarsel.pdf')
+    #Download the file contents in binary format
+    r = requests.get(url)
+    # open method to open a file on your system and write the contents
+    with open("langvarsel.pdf", "wb") as code:
+        code.write(r.content)
 
 def pdfToImg():
     pages = convert_from_path(path + 'langvarsel.pdf', 300)
