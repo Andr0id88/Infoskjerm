@@ -107,7 +107,7 @@ class Forcast(RssFeed):
         os.rename(path + "weatherCropped.jpg", imgpath + "forcast.jpg")
 
 
-    if internet_connected():
+    if RssFeed.internet_connected():
         getpdf()
         pdfToImg()
         cropImg()
