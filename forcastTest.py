@@ -102,7 +102,7 @@ class Forcast(RssFeed):
         area = (100, 150, 2350, 1960)
         cropped_img = img.crop(area)
         cropped_img.save("weatherCropped.jpg")
-
+    #Move and overwrite the file
     def move():
         os.rename(path + "weatherCropped.jpg", imgpath + "forcast.jpg")
 
