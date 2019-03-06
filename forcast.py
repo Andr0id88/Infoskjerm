@@ -10,7 +10,7 @@ url = 'https://www.yr.no/sted/Norge/Nordland/Narvik/Narvik/varsel.pdf'
 # Tester og legge alt under 1 mappe, da trengs denne for få output.xml til å
 # få rett plassering i hjemmemappa slik at tickr når den.
 home = '/home/pi/'
-path = '/home/pi/weather/'
+path = '/home/pi/newsAndForcast/'
 imgpath = '/home/pi/Pictures/'
 
 
