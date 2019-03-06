@@ -26,7 +26,7 @@ class RssFeed:
                 feeds.append(feedparser.parse(url))
 
         orig_stdout = sys.stdout
-        f=open("output.xml",'w')
+        f=open("/home/pi/output.xml",'w')
         sys.stdout = f
 
         for feed in feeds:
