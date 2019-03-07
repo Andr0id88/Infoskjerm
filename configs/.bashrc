@@ -92,6 +92,12 @@ alias ll='ls -l'
 #alias la='ls -A'
 #alias l='ls -CF'
 alias s='bash ~/screenshot.sh'
+alias ..="cd .."
+alias perm='stat -c "%a %n *'
+alias gs="git status"
+alias ga="git add ."
+alias gc="git commit -m"
+alias gp="git push"
 
 
 
