@@ -2,8 +2,8 @@ import feedparser
 import socket
 import sys
 
-class RssFeed:
 
+class RssFeed:
 
     def internet_connected(host="8.8.8.8", port=53):
 
