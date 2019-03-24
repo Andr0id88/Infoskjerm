@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import os
 import sys
-
+#  Fix menu and test out ansible ad-hoc scripts:  <24-03-19, Andre Hansen> #
 """Needs a shell script for the rssChecker with this shell command inside:
     stat -c '%y ~/output.xml'
     for simplisity call it rssCheck.sh and put it in the ~/scripts/ folder"""
