@@ -1,0 +1,7 @@
+pip installations:
+feedparser
+pillow
+requests
+pdf2image
+
+apt-get installs
