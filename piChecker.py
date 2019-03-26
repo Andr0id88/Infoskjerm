@@ -14,7 +14,7 @@ def pingAll():
 
 def rebootPi():
     """Reboot all pies"""
-    os.system("ansible oscarsborg -m command -a reboot")
+    os.system("ansible oscarsborg -m shell -a 'sudo reboot'")
 
 def updatePi(self):
     """Updates all pies"""
@@ -28,33 +28,47 @@ def rssChecker(self):
     """Checks when the RSS feed was last update"""
     os.system("ansible oscarsborg -m command -a bash ~/scripts/rssCheck.sh")
 
-def forceUpdate(self):
+def forceUpdateRss(self):
     """Force pi-es to update the RSS feed"""
-    os.system("ansible oscarsborg -m command -a bash ~/scripts/feedpi.py")
+    os.system("ansible oscarsborg -m command -a /home/pi/newsAndForcast/feedpi.py")
 
+def forceUpdateForcast():
+    """Force pi-es to update the RSS feed"""
+    os.system("ansible oscarsborg -m command -a /home/pi/newsAndForcast/forcastpi.py")
 
 ans = True
 while ans:
     print("""
-    1.Ping all infoscreens
-    2.Reboot all infoscreens
-    3.Update RSS feed on all screens
-    4.Logon raspberry pi-es with ssh
+    1.Update git repo on all pies
+    2.Ping all infoscreens
+    3.Reboot all infoscreens
+    4.Update RSS feed on all screens
+    5.Update Forcast on all screens
+    6.Logon raspberry pi-es with ssh
     q.Exit/Quit
     """)
     ans = input("What would you like to do? ")
     if ans == "1":
-        print("\n Running ansible ping module on all pi-es")
-        pingAll()
+        print("\n Running ansible git playbook")
+        os.system("ansible-playbook ~/myRepos/Infoskjerm/ansibleGitPi/playbook.yml")
+
     elif ans == "2":
-        print("\n Running ansible command module and reboots the pi-es")
-        rebootPi()
+        print("\n Starting to ping all the raspberries...")
+        pingAll()
+
     elif ans == "3":
-        print("\n Force updates all the infoscreens")
-    elif ans == "q":
-        sys.exit("Goodbye")
+        print("\n Rebooting all the infoscreens...")
+        rebootPi()
 
     elif ans == "4":
+        print("\n Updating RSS feeds on all the infoscreens")
+        forceUpdateRss()
+
+    elif ans == "5":
+        print("\n Updating weather forcast on all the infoscreens")
+        forceUpdateForcast()
+
+    elif ans == "6":
         ssh = True
         while ssh == True:
             print ("""
@@ -137,5 +151,9 @@ while ans:
                         sshans = False
                     else:
                         print("\n Not Valid Choice Try again")
+
+    elif ans == "q":
+        sys.exit("Goodbye")
+
     else:
         print("\n Not Valid Choice Try again")
