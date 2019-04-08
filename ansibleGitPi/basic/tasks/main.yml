@@ -1,9 +1,0 @@
-# - name: "add VIM-nox"
-#   apt: pkg=vim-nox state=present
-
-# - name: "Add vimrc"
-#   copy: src=../files/.vimrc dest=/home/pi/.vimrc owner=pi group=adm mode=0644
-
-- name: "Updating Infoskjerm repo.... Pulling from github"
-  git:  repo=git@github.com:Andr0id88/Infoskjerm.git dest=/home/pi/Infoskjerm
-  sudo_user: pi
