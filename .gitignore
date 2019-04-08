@@ -5,3 +5,7 @@ output.xml
 piMenu
 ansible.cfg
 hosts
+ansibleGitPi
+piChecker.py
+backup_and_source
+piChecker.py
