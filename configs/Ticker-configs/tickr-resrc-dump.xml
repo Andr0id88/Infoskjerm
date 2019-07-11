@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 02 Jul 2018 08:15:50 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Mexico election: López Obrador vows profound change after win]]></title>
+            <description><![CDATA[Andrés Manuel López Obrador vows profound change without dictatorship as his rivals concede.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-44677829</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-44677829</guid>
+            <pubDate>Mon, 02 Jul 2018 07:08:26 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/68F4/production/_102286862_mediaitem102286861.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Germany's migrants: Seehofer offers to resign over migrants]]></title>
+            <description><![CDATA[Germany's interior minister agrees to hold final talks on Monday before making his decision.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-44674945</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-44674945</guid>
+            <pubDate>Mon, 02 Jul 2018 06:53:49 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1304/production/_102286840_bf021eb6-3a2f-46f2-925d-e3ed51343c71.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan blast: Sikhs among 19 dead in Jalalabad suicide attack]]></title>
+            <description><![CDATA[Most of the 19 killed were Sikhs who were on their way to meet President Ashraf Ghani in Jalalabad.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-44677823</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-44677823</guid>
+            <pubDate>Sun, 01 Jul 2018 21:38:19 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/45B8/production/_102284871_047856149.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LeBron James: Basketball star agrees to join Los Angeles Lakers]]></title>
+            <description><![CDATA[Basketball star LeBron James joins Los Angeles Lakers in a four-year deal worth $154m (£116m).]]></description>
+            <link>https://www.bbc.co.uk/sport/basketball/44536262</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/basketball/44536262</guid>
+            <pubDate>Mon, 02 Jul 2018 03:13:18 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/760D/production/_102112203_lbj.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[India family found hanged from ceiling in Delhi house]]></title>
+            <description><![CDATA[Police have not ruled out murder, but are also investigating handwritten notes found in the house.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-44673761</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-44673761</guid>
+            <pubDate>Mon, 02 Jul 2018 02:49:46 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E8E2/production/_102281695_whatsappimage2018-07-01at15.03.55-2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Artificial ovary' may help cancer patients]]></title>
+            <description><![CDATA[The treatment is aimed at women who are at risk of becoming infertile, such as those who receive chemotherapy.]]></description>
+            <link>https://www.bbc.co.uk/news/health-44659289</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-44659289</guid>
+            <pubDate>Mon, 02 Jul 2018 06:33:59 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13CE6/production/_102262118_gettyimages-841956208.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Simple steps that could help you live to 100]]></title>
+            <description><![CDATA[Naples in Florida is trying to help residents live to 100 by emulating areas where people live the longest.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-44662189</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-44662189</guid>
+            <pubDate>Sun, 01 Jul 2018 23:19:57 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/4552/production/_102264771_p06cfkx7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK produces new Brexit customs model]]></title>
+            <description><![CDATA[The plan for handling customs after the UK leaves the EU will be discussed by the cabinet on Friday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-44671507</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-44671507</guid>
+            <pubDate>Mon, 02 Jul 2018 07:57:43 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/DDC9/production/_102277765_may_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Plastic bags: Shop assistant 'grabbed by throat' as Australia ban starts]]></title>
+            <description><![CDATA[One customer reportedly grabs a shop assistant by the throat as a ban on single-use plastic bags starts.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-44674112</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-44674112</guid>
+            <pubDate>Sun, 01 Jul 2018 11:56:01 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13F4A/production/_102283718_mediaitem102282736.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['India 'WhatsApp child abduction rumours': Five more lynched]]></title>
+            <description><![CDATA[Indian police say 12 have been arrested for allegedly killing the men over fears of child abduction.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-44678674</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-44678674</guid>
+            <pubDate>Mon, 02 Jul 2018 05:43:03 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/28DA/production/_102285401_whatsappimage2018-07-02at7.45.09am.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thai cave: Divers advance in effort to save trapped boys]]></title>
+            <description><![CDATA[Rescuers hope the 12 missing boys and their coach are on a rock mound nicknamed "Pattaya Beach".]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-44672492</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-44672492</guid>
+            <pubDate>Mon, 02 Jul 2018 06:22:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AE8F/production/_102278644_mediaitem102278643.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drake pays tribute to Rapper Smoke Dawg]]></title>
+            <description><![CDATA[The 21-year-old's family say he "touched the lives of many fans".]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-44679514</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-44679514</guid>
+            <pubDate>Mon, 02 Jul 2018 06:43:28 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13D6/production/_102287050_gettyimages-827582882.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Serena Williams starts Wimbledon campaign]]></title>
+            <description><![CDATA[Who will rival Roger Federer? What are Kyle Edmund's hopes? What will the weather be like? How can you follow it? It's our Wimbledon guide.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/44621226</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/44621226</guid>
+            <pubDate>Sun, 01 Jul 2018 15:58:47 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/8AD1/production/_102273553_fedserena_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Redoine Faid: Paris helicopter prison break for gangster]]></title>
+            <description><![CDATA[Redoine Faid sparks a 3,000-strong manhunt after escaping French prison with the help of armed men.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-44673753</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-44673753</guid>
+            <pubDate>Sun, 01 Jul 2018 21:25:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13BA8/production/_102280808_redoinefaid.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[This man is cleaning all 388 Holocaust plaques in his city]]></title>
+            <description><![CDATA[Gerhard Geier spends his days renovating memorial plaques for Holocaust victims in the town of Salzburg.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-44660049</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-44660049</guid>
+            <pubDate>Sun, 01 Jul 2018 23:00:48 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/4B88/production/_102263391_p06cf6rl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Catcalling: Women write in chalk to stop street harassment]]></title>
+            <description><![CDATA[Why women in three cities are writing out in chalk words that have been shouted at them on the street.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-43718034</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-43718034</guid>
+            <pubDate>Sun, 01 Jul 2018 23:31:56 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9170/production/_101923273_catcalledited.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why this teacher wants to change his country’s motto]]></title>
+            <description><![CDATA[High school teacher Dave Suchanek is so patriotic about Canada, he's created an alter ego: Flagman.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-44635491</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44635491</guid>
+            <pubDate>Sat, 30 Jun 2018 23:28:26 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/17A12/production/_102268769_p06cgk5v.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 103-year-old pianist]]></title>
+            <description><![CDATA[Colette Maze was born in 1915 and has played the piano for over a century.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-44660051</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-44660051</guid>
+            <pubDate>Sat, 30 Jun 2018 23:40:10 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/101B8/production/_102267956_p06cghg8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wallace the mule refused permission to compete in dressage]]></title>
+            <description><![CDATA[The only difference between Wallace the mule and a horse is his "enormous ears", says his owner.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-44672962</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-44672962</guid>
+            <pubDate>Sun, 01 Jul 2018 12:07:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/55E3/production/_102278912_wallace3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who is Mexico's presidential winner?]]></title>
+            <description><![CDATA[It is third time lucky for the Mexican politician as he wins the presidency after failing twice before.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-44646478</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-44646478</guid>
+            <pubDate>Mon, 02 Jul 2018 03:59:59 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0878/production/_102286120_047873825.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[India rape: A victim's two-year wait for justice]]></title>
+            <description><![CDATA[Lalitha says she was raped by a family friend aged 16 - but it took the police two years to arrest him.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-44573327</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-44573327</guid>
+            <pubDate>Sun, 01 Jul 2018 23:06:30 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/EDDD/production/_102039806_5ae6b5c8-918c-4148-b08d-427464a3e23d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The man who created a $2bn ice cream firm in his kitchen]]></title>
+            <description><![CDATA[Halo Top has only been going six years but is already the best-selling ice cream brand in the US.]]></description>
+            <link>https://www.bbc.co.uk/news/business-44614104</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-44614104</guid>
+            <pubDate>Sun, 01 Jul 2018 23:11:16 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A4DE/production/_102260224_justinwoolvertonimage2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Transgender children: Buying time by delaying puberty]]></title>
+            <description><![CDATA[One of the children we've been following for four years begins treatment to delay the onset of puberty.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-44661079</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-44661079</guid>
+            <pubDate>Sun, 01 Jul 2018 23:41:00 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F10A/production/_102260716_jessica_1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cabin Pressure: The sitcom that broke records]]></title>
+            <description><![CDATA[The radio comedy, starring Benedict Cumberbatch and John Finnemore, garnered fans across the world.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-44565410</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-44565410</guid>
+            <pubDate>Sun, 01 Jul 2018 23:42:07 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0A08/production/_101986520_cabinpressure.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Nigerian imam who saved Christians from Muslim gunmen]]></title>
+            <description><![CDATA[Villagers say the imam risked his life to shelter them, after they fled an attack by cattle herders.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-44657339</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-44657339</guid>
+            <pubDate>Sat, 30 Jun 2018 23:47:06 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3ECC/production/_102267061_hi047784070.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why female suicide in Afghanistan is so prevalent]]></title>
+            <description><![CDATA[In Afghanistan, an estimated 80% of suicide attempts are made by women. Why?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-44370711</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-44370711</guid>
+            <pubDate>Sat, 30 Jun 2018 23:16:45 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1B59/production/_101910070_afghanwomenkabulshelterp3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Cup Catch-up: Spain pay penalty as Russia advance]]></title>
+            <description><![CDATA[Watch all the best action from match day 17 of the 2018 World Cup in Russia.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/44678123</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/44678123</guid>
+            <pubDate>Mon, 02 Jul 2018 00:22:20 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1C5A/production/_102285270_p06clzdp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mohamed Salah signs new five-year deal with Liverpool]]></title>
+            <description><![CDATA[Liverpool forward Mohamed Salah signs a new five-year contract with the club.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/44679819</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/44679819</guid>
+            <pubDate>Mon, 02 Jul 2018 07:52:07 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/49BE/production/_102287881_salah_pa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andy Murray to change schedule to 'return to top of the game' after Wimbledon withdrawal]]></title>
+            <description><![CDATA[Andy Murray says he will make changes to his schedule to "return to the top of his game" after withdrawing from Wimbledon.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/44676602</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/44676602</guid>
+            <pubDate>Sun, 01 Jul 2018 21:30:52 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/A184/production/_102284314_murray_afp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brian McDermott sacked as head coach of Leeds Rhinos]]></title>
+            <description><![CDATA[Leeds Rhinos sack Brian McDermott, ending his status as the longest-serving head coach in Super League.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/44679477</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/44679477</guid>
+            <pubDate>Mon, 02 Jul 2018 06:54:30 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/670A/production/_102287362_mcdermott.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Cup 2018: Harry Kane - the making of England & Tottenham striker]]></title>
+            <description><![CDATA[From being a goalkeeper and dealing with rejection to becoming England captain, BBC Sport looks at the making of Harry Kane.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/44625669</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/44625669</guid>
+            <pubDate>Mon, 02 Jul 2018 05:57:02 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/B006/production/_102226054_kane_eng_collage.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Croatia beat Denmark in dramatic shootout]]></title>
+            <description><![CDATA[Danijel Subasic saves three penalties as Croatia knock out Denmark in a penalty shootout to set up a World Cup quarter-final tie against hosts Russia.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/44591346</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/44591346</guid>
+            <pubDate>Sun, 01 Jul 2018 22:12:29 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/0350/production/_102284800_croatia-getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Cup 2018: Wild celebrations across Russia after hosts beat Spain]]></title>
+            <description><![CDATA[How did Russia celebrate a famous World Cup win over Spain? BBC Sport's Patrick Jennings found out watching from a bar in Samara.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/44677631</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/44677631</guid>
+            <pubDate>Sun, 01 Jul 2018 21:09:16 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/1485A/production/_102285048_russiafans.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia stun Spain to reach quarter-finals]]></title>
+            <description><![CDATA[Igor Akinfeev saves two spot-kicks as hosts Russia beat Spain 4-3 in a dramatic penalty shootout to reach the World Cup quarter-finals.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/44591345</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/44591345</guid>
+            <pubDate>Sun, 01 Jul 2018 22:01:38 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/B11A/production/_102283354_russiacelebrate_reuters.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Cup 2018: Which clubs do Brazil's players play for?]]></title>
+            <description><![CDATA[Can you name the clubs that Brazil's World Cup players play for? You have three minutes, so good luck.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/44659473</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/44659473</guid>
+            <pubDate>Sun, 01 Jul 2018 16:04:22 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/62BC/production/_102267252_brazil_squad.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Cup 2018: Andres Iniesta retires from international football after Spain exit]]></title>
+            <description><![CDATA[Andres Iniesta announces his retirement from international football following Spain's defeat to hosts Russia.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/44677330</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/44677330</guid>
+            <pubDate>Sun, 01 Jul 2018 20:22:15 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/092C/production/_102284320_hi047864569.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Cup 2018: Did Vladimir Putin phone call inspire Russia to beat Spain?]]></title>
+            <description><![CDATA[Russia received the backing of president Vladimir Putin before their World Cup last-16 victory over Spain.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/44677177</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/44677177</guid>
+            <pubDate>Sun, 01 Jul 2018 19:26:55 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/DFA0/production/_102284275_russiacelebrate.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What makes the perfect World Cup penalty]]></title>
+            <description><![CDATA[What makes the perfect World Cup penalty? Just how bad are England at them? Does luck come into it? Your guide to World Cup shootouts.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/44641247</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/44641247</guid>
+            <pubDate>Sun, 01 Jul 2018 15:59:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1775/production/_102250060_world_cup_penalties_promo_976.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Cup 2018: Kieran Trippier inspired by David Beckham comparison]]></title>
+            <description><![CDATA[Kieran Trippier wants to follow the example of his idol David Beckham by being England's key creator of chances against Colombia.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/44670283</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/44670283</guid>
+            <pubDate>Sat, 30 Jun 2018 17:37:27 GMT</pubDate>
+            <media:thumbnail width="1418" height="798" url="http://c.files.bbci.co.uk/111B3/production/_102276007_trippier_reuters.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will Russia still smile after the World Cup?]]></title>
+            <description><![CDATA[Russians wonder if their 'cold' nation will still be warm and smiling once the World Cup is over.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-44671034</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-44671034</guid>
+            <pubDate>Sat, 30 Jun 2018 23:23:30 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/4C83/production/_102278591_p06ckf7f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Searching for Burma's forgotten World War Two heroes]]></title>
+            <description><![CDATA[A group of British volunteers goes to Myanmar every year to find and support veterans who fought for the UK in World War Two.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-44582731</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-44582731</guid>
+            <pubDate>Sun, 24 Jun 2018 01:04:57 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2163/production/_102174580_motorcylist976promo.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['How I found out my husband had married another woman']]></title>
+            <description><![CDATA[Yve Gibney turned detective when her marriage hit problems. But she had no idea how bad things were.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-44600738</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-44600738</guid>
+            <pubDate>Wed, 27 Jun 2018 01:39:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0673/production/_102215610_yve-and-maurice-976.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Noura Hussein: 'Hoping for a miracle to stop our daughter being hanged']]></title>
+            <description><![CDATA[The parents of Sudanese teenager Noura Hussein speak for the first time about her alleged rape and death sentence.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-44579060</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-44579060</guid>
+            <pubDate>Mon, 25 Jun 2018 00:30:08 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1209E/production/_102168837_noura_tears976.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My best friend’s killer got away - until I made police try again]]></title>
+            <description><![CDATA[Angela Samota was brutally killed in 1984. The murderer was never found - until, years later, Angela's college roommate got involved.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-44470377</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-44470377</guid>
+            <pubDate>Mon, 25 Jun 2018 23:31:36 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8FAB/production/_102197763_ecd349af-a31a-4635-8259-9eba8d8f4cb3.jpg"/>
+        </item>
+    </channel>
+</rss>
