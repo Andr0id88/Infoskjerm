@@ -7,3 +7,5 @@ pdf2image
 apt-get installs
 feh
 poppler-utils
+scrot
+cowsay
