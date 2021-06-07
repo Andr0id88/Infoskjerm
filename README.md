@@ -24,7 +24,7 @@ Reason why this was created in the first place was that i liked Tickr's RSS feed
 * Download and install tickr for RSS feed
 [Tickr offical](https://www.open-tickr.net/download.php)
 
-Example configuration file can be found [here]()
+Example configuration file can be found [here](https://github.com/Andr0id88/Infoskjerm/blob/master/configs/tickr-conf)
 
 * Copy these commands to install packages needed
 
