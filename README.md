@@ -1,5 +1,5 @@
 # Get started
-Simple infoscreen by using FEH to loop through images located in a smb share that you can access remotly from a central machine.
+Simple infoscreen using FEH to loop through images located in a smb share that you can access remotly from a central windows\linux machine.
 
 ## Background
 The reason why this was created in the first place was that i liked Tickr's RSS feed look, and they did not support https RSS feeds, or at least they diden't at the time this was made.
@@ -7,6 +7,7 @@ The reason why this was created in the first place was that i liked Tickr's RSS 
 ## Todo
 * Automate installation with an ansible playbook
 * Add support for movie clips
+* Add support for website content
 
 ### Dependencies:
 
@@ -32,7 +33,7 @@ The reason why this was created in the first place was that i liked Tickr's RSS 
 
 Example configuration file can be found [here](https://github.com/Andr0id88/Infoskjerm/blob/master/configs/tickr-conf)
 
-* Copy these commands to install packages needed
+##### Python3 and system packages
 
 ```
 pip3 install feedparser pdf2image pillow requests --user
