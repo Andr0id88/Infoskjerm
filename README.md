@@ -1,6 +1,12 @@
 # Get started
 Simple infoscreen by using FEH to loop through images located in a smb share that you can access remotly from a central machine.
-Reason why this was created in the first place was that i liked Tickr's RSS feed and they do not support https RSS feeds, or at least they diden't at the time this was made.
+
+## Background
+The reason why this was created in the first place was that i liked Tickr's RSS feed look, and they did not support https RSS feeds, or at least they diden't at the time this was made.
+
+## Todo
+* Automate installation with an ansible playbook
+* Add support for movie clips
 
 ### Dependencies:
 
