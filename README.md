@@ -39,7 +39,7 @@ Example configuration file can be found [here](https://github.com/Andr0id88/Info
 It use's output.xml file created by the [feed.py](https://github.com/Andr0id88/Infoskjerm/blob/master/newsAndForcast/feedpi.py)
 
 ##### Python3 and system packages
-Copy these commands or run the [dependencies.sh script](https://github.com/Andr0id88/Infoskjerm/blob/master/scripts/dependencies.sh)
+Copy these commands or run the [dependencies.sh](https://github.com/Andr0id88/Infoskjerm/blob/master/scripts/dependencies.sh) script
 
 ```
 pip3 install feedparser pdf2image pillow requests --user
