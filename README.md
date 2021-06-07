@@ -45,8 +45,8 @@ apt-get install feh poppler-utils scrot xscreensaver unclutter samba samba-commo
 ```
 ## Configuration
 * Clone git repo to the raspberry pi
-* Create a smb share on the raspberry pi were you want to store pictures for the infoscreen [Simple guide for setting up smb on a pi can be found here](https://pimylifeup.com/raspberry-pi-samba/)
-* Run forcastpi.py and feedpi.py as a cronjob at the interval you want them to run, make sure they are located in $PATH or you will have to spesify full path in the cronjob
+* Create a smb share on the raspberry pi were you want to store pictures for the infoscreen: [Simple guide for setting up smb on a pi](https://pimylifeup.com/raspberry-pi-samba/)
+* Run forcastpi.py and feedpi.py as a cronjob at the interval you want them to run, make sure they are located in $PATH or you will have to spesify a full path in the cronjob
 
 ##### Cron-job example
 ```
