@@ -35,6 +35,7 @@ The reason why this was created in the first place was that i liked Tickr's RSS 
 [Tickr offical](https://www.open-tickr.net/download.php)
 
 Example configuration file can be found [here](https://github.com/Andr0id88/Infoskjerm/blob/master/configs/tickr-conf)
+It use's output.xml file created by the [feed.py](https://github.com/Andr0id88/Infoskjerm/blob/master/newsAndForcast/feedpi.py)
 
 ##### Python3 and system packages
 Copy these commands or run the [dependencies.sh script](https://github.com/Andr0id88/Infoskjerm/blob/master/scripts/dependencies.sh)
@@ -67,5 +68,3 @@ This script loops through pictures at a given delay in seconds spesified with -D
 @./infotavle.sh
 @tickr output.xml
 ```
-
-
