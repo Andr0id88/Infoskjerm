@@ -1,23 +1,24 @@
 # Get started
 Simple infoscreen by using FEH to loop through images located in a smb share that you can access remotly from a central machine.
+Reason why this was created in the first place was that i liked Tickr's RSS feed and they do not support https RSS feeds, or at least they diden't at the time this was made.
 
-### Dependancies:
+### Dependencies:
 
 ##### Python3 dependencies:
-feedparser
-pillow
-requests
-pdf2image
+* feedparser
+* pdf2image
+* pillow
+* requests
 
 ##### Apt-get installations
-feh
-poppler-utils
-scrot
-xscreensaver
-unclutter
-git
-samba
-samba-common-bin
+* feh
+* git
+* poppler-utils
+* samba
+* samba-common-bin
+* scrot
+* unclutter
+* xscreensaver
 
 ##### Tickr
 * Download and install tickr for RSS feed
