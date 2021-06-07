@@ -1,3 +1,4 @@
 #!/bin/bash
 
-pip3 install feedparser --user && pip3 install pdf2image --user
+# Install dependancies
+pip3 install feedparser pdf2image pillow requests --user && apt-get install feh poppler-utils scrot -y

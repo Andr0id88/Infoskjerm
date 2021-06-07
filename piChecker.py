@@ -7,7 +7,6 @@ import sys
     stat -c '%y ~/output.xml'
     for simplisity call it rssCheck.sh and put it in the ~/scripts/ folder"""
 
-
 def pingAll():
     """This is a command to check if all the hosts responds to ping"""
     os.system("ansible all -m ping")
