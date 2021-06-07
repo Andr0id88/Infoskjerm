@@ -5,7 +5,7 @@ import sys
 import os
 
 class RssFeed:
-# Check if internett is connected, this is needed to prevent feed.py to create a empty output.xml file for Tickr when internet connection is lost
+# Check if internet is connected, this is needed to prevent feed.py to create a empty output.xml file for Tickr when internet connection is lost
     def internet_connected(host="8.8.8.8", port=53):
 
         try:

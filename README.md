@@ -3,7 +3,7 @@ Simple infoscreen by using FEH to loop through images located in a smb share tha
 
 ### Dependancies:
 
-##### PIP dependancies:
+##### Python3 dependencies:
 feedparser
 pillow
 requests
@@ -16,11 +16,14 @@ scrot
 xscreensaver
 unclutter
 git
+samba
+samba-common-bin
 
 ##### Tickr
 * Download and install tickr for RSS feed
 [Tickr offical](https://www.open-tickr.net/download.php)
-Example configuration files are located [Here]()
+
+Example configuration file can be found [here]()
 
 * Copy these commands to install packages needed
 
@@ -30,7 +33,7 @@ apt-get install feh poppler-utils scrot xscreensaver unclutter samba samba-commo
 ```
 ## Configuration
 * Clone git repo to the raspberry pi
-* Create a smb share on the raspberry pi were you want to store pictures for the infoscreen [Simple guide for external drive SMB, you can also put it directly onto the SD card](https://pimylifeup.com/raspberry-pi-samba/)
+* Create a smb share on the raspberry pi were you want to store pictures for the infoscreen [Simple guide for setting up smb on a pi can be found here](https://pimylifeup.com/raspberry-pi-samba/)
 * Run forcastpi.py and feedpi.py as a cronjob at the interval you want them to run, make sure they are located in $PATH or you will have to spesify full path in the cronjob
 
 ##### Cron-job example
@@ -38,6 +41,10 @@ apt-get install feh poppler-utils scrot xscreensaver unclutter samba samba-commo
 0 0-23 * * * /my/repo/location/feedpi.py
 0 0-23 * * * /my/repo/location/forcast.py
 ```
+
+#### FEH script
+[infotavle.sh](https://github.com/Andr0id88/Infoskjerm/blob/master/scripts/infotavle.sh)
+This script loops through pictures at a given delay in seconds spesified with -D parameter, the -B parameter makes the background black outside of the picture. For more information check out man page for FEH.
 
 #### Run feh script and tickr on boot
 * Add these commands in the autostart file (LXDE) located in /etc/xdg/lxsession/LXDE-pi/autostart

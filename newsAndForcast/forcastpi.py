@@ -8,8 +8,11 @@ import feedparser
 import socket
 import sys
 
+# Url to the forcast you want to create a picture from
 url = 'https://www.yr.no/sted/Norge/Nordland/Narvik/Narvik/varsel.pdf'
+# Temp location to store pdf file
 temp = '/home/pi/newsAndForcast/temp/'
+# Output path for where you want picture to go.
 imgpath = '/home/pi/Pictures/'
 
 def getpdf():
@@ -31,8 +34,6 @@ def cropImg():
 def move():
 	os.rename(temp + "weatherCropped.jpg", imgpath + "forcast.jpg")
 
-
-    
 getpdf()
 pdfToImg()
 cropImg()
